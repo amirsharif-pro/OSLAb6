@@ -1,0 +1,3 @@
+CTRL + G
+CTRL + O
+CTRL + W

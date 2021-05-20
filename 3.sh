@@ -1,0 +1,1 @@
+zip -p pass123 ccat-command.zip Documents/
