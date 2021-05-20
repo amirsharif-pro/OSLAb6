@@ -1,3 +1,3 @@
-CTRL + G
-CTRL + O
-CTRL + W
+nano -B
+nano -F
+nano -H
